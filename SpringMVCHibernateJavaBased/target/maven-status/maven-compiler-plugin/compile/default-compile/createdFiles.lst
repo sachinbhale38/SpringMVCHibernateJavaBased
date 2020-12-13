@@ -1,0 +1,9 @@
+com\jbk\entity\Admin.class
+com\jbk\configuration\ApplicationInitializer.class
+com\jbk\dao\SpringMVCDAO.class
+com\jbk\configuration\WebConfiguration.class
+com\jbk\service\SpringMVCService.class
+com\jbk\configuration\HibernateConfiguration.class
+com\jbk\controller\SpringMVCController.class
+com\jbk\entity\Course.class
+com\jbk\entity\Student.class
